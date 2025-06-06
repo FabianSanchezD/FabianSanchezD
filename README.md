@@ -1,32 +1,60 @@
-👋 Hey! I'm Fabian Sanchez.
-I'm a CS student at TEC, diving deep into AI, software development, and automation.
+# 👋 Hey! I'm Fabian Sanchez
 
-🧠 Learning:
+I'm a CS student at TEC (Costa Rica 🇨🇷), diving deep into **AI** and **software development**. Also, learning about new tech daily!
 
-    Machine Learning with Python and TensorFlow
+---
 
-    Web development basics (HTML, CSS, a bit of JS)
+## 🧠 Currently Learning
+- Machine Learning with **Python** and **TensorFlow**
+- Web development with **React**, **TypeScript**, and **Next.js**
+- Blockchain technology using **Rust**.
+- Game Development with C++
 
-    Git, GitHub, and best practices for building clean projects
+---
 
-🛠️ Projects so far:
+## 🛠️ Projects So Far
+- 🌐 Personal websites and static pages.
+- 🗂️ Command-line To-Do App with SQLite.
+- 🧠 **Mindsnacks** – mini podcast snippets on topics you want to learn.
 
-    A mini command-line To-Do App with SQLite
+---
 
-    Personal websites and static pages
+## 📜 Future Projects 
+- 🤺 Fencing Technique Analyzer using Python with AI/ML
+- 🎓 App for Students to know when they can hangout on Campus with friends
+- 👾 Game with C++ 
+- ⚡ Blockchain with Rust (not planned yet)
 
-    A simple AI project to practice machine learning fundamentals
 
-🎯 Goals:
+--- 
 
-    Build smarter tools that automate tasks
+## 🎯 Goals
+- Build smarter tools that automate tasks.
+- Keep improving at **AI** and **full-stack development**.
+- Share my journey and help others along the way.
 
-    Keep improving at AI and full-stack development
+---
 
-    Share my journey and help others along the way
+## ⚙️ Tech Stack
 
-Always experimenting, always leveling up. 🚀
-<!---
-FabianSanchezD/FabianSanchezD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianSanchezD&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianSanchezD&layout=compact&theme=radical)
+
+
+---
+
+> Always experimenting, always leveling up. 🚀
