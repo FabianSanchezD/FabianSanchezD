@@ -20,7 +20,7 @@ I'm a CS student at TEC (Costa Rica 🇨🇷), diving deep into **AI** and **sof
 
 ## 📜 Future Projects 
 - 🤺 Fencing Technique Analyzer using Python with AI/ML
-- 
+- 💥 Game for mobile with the idea of a boardgame called Tic Tac Boom
 - ⚡ Blockchain with Rust (not planned yet)
 
 
