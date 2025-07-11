@@ -8,21 +8,19 @@ I'm a CS student at TEC (Costa Rica 🇨🇷), diving deep into **AI** and **sof
 - Machine Learning with **Python** and **TensorFlow**
 - Web development with **React**, **TypeScript**, and **Next.js**
 - Blockchain technology using **Rust**.
-- Game Development with C++
 
 ---
 
 ## 🛠️ Projects So Far
-- 🌐 Personal websites and static pages.
+- 🎓**Drop-In** - Website for students to schedule spontaneous meetups at campus
+- 🧠 **Mindsnacks** – Mini podcast snippets on topics you want to learn.
 - 🗂️ Command-line To-Do App with SQLite.
-- 🧠 **Mindsnacks** – mini podcast snippets on topics you want to learn.
 
 ---
 
 ## 📜 Future Projects 
 - 🤺 Fencing Technique Analyzer using Python with AI/ML
-- 🎓 App for Students to know when they can hangout on Campus with friends
-- 👾 Game with C++ 
+- 
 - ⚡ Blockchain with Rust (not planned yet)
 
 
@@ -30,7 +28,7 @@ I'm a CS student at TEC (Costa Rica 🇨🇷), diving deep into **AI** and **sof
 
 ## 🎯 Goals
 - Build smarter tools that automate tasks.
-- Keep improving at **AI** and **full-stack development**.
+- Keep improving at **AI**, **Blockchain** and **full-stack development**.
 - Share my journey and help others along the way.
 
 ---
@@ -52,6 +50,9 @@ I'm a CS student at TEC (Costa Rica 🇨🇷), diving deep into **AI** and **sof
 ## 📊 GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianSanchezD&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianSanchezD)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ---
