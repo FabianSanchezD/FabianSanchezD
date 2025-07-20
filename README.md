@@ -51,13 +51,4 @@ I'm a CS student at TEC (Costa Rica 🇨🇷), diving deep into **AI** and **sof
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianSanchezD&theme=dark)
-
-
-
-
----
-
 > Always experimenting, always leveling up. 🚀
