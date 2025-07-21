@@ -1,54 +1,52 @@
 # 👋 Hey! I'm Fabian Sanchez
 
-I'm a CS student at TEC (Costa Rica 🇨🇷), diving deep into **AI** and **software development**. Also, learning about new tech daily!
+I'm a Computer Science student at TEC (Costa Rica 🇨🇷), passionate about **AI**, **Blockchain**, and building tools that make life easier. I’m also the founder of [**Inflectia**](https://github.com/Inflectia), a startup that builds web and mobile apps that solve real problems.
 
 ---
 
 ## 🧠 Currently Learning
-- Machine Learning with **Python** and **TensorFlow**
+
 - Web development with **React**, **TypeScript**, and **Next.js**
-- Blockchain technology using **Rust**.
+- Machine Learning with **Python**, **TensorFlow**, and **OpenCV**
+- API development with **FastAPI**
+- Blockchain fundamentals with **Rust**
 
 ---
 
-## 🛠️ Projects So Far
-- 🎓**Drop-In** - Website for students to schedule spontaneous meetups at campus
-- 🧠 **Mindsnacks** – Mini podcast snippets on topics you want to learn.
-- 🗂️ Command-line To-Do App with SQLite.
+## 🛠️ Projects
+
+- 🗺️ **SkillMap** - Website for people to generate personalized roadmaps to learn faster and more efficiently.
+- 🎓 **Drop-In** – Platform for students to create spontaneous meetups on campus. [GitHub](https://github.com/FabianSanchezD/dropin)
+- 🧠 **Mindsnacks** – AI-generated mini podcast snippets based on topics you want to learn.
+- ✅ **To-Do CLI App** – Command-line task manager using Python and SQLite.
 
 ---
 
-## 📜 Future Projects 
-- 🤺 Fencing Technique Analyzer using Python with AI/ML
-- 💥 Game for mobile with the idea of a boardgame called Tic Tac Boom
-- ⚡ Blockchain with Rust (not planned yet)
+## 🔭 Future Projects
 
+- 🤺 **Fencing Technique Analyzer** – Computer vision + AI to detect and give feedback on fencing technique..
+- ⛓️ **Blockchain App in Rust** – Still exploring the idea.
 
---- 
-
-## 🎯 Goals
-- Build smarter tools that automate tasks.
-- Keep improving at **AI**, **Blockchain** and **full-stack development**.
-- Share my journey and help others along the way.
-
----
 
 ## ⚙️ Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
+  <img src="https://github.com/user-attachments/assets/4e086cf3-0fc0-4f1e-8a4b-5212b36e6561" height='30' />
+  <img src="https://github.com/user-attachments/assets/0c9b52e7-4c8f-43bd-a7f6-ba00ac2bfd90" height='30' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="30"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" height="30"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="30"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/supabase.png" height="30"/>
 </p>
 
 ---
 
-> Always experimenting, always leveling up. 🚀
+> Always building, always learning. 🚀
+
