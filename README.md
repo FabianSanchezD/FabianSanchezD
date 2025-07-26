@@ -8,7 +8,7 @@ I'm a Computer Science student at TEC (Costa Rica 🇨🇷), passionate about **
 
 - Web development with **React**, **TypeScript**, and **Next.js**
 - Machine Learning with **Python**, **TensorFlow**, and **OpenCV**
-- API development with **FastAPI**
+- Backend with **Springboot (Java)**, **FastAPI** or **Node.js with Express** (not sure yet)
 - Blockchain fundamentals with **Rust**
 
 ---
