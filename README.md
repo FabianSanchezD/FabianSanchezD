@@ -8,31 +8,23 @@ I'm a Computer Science student at TEC (Costa Rica 🇨🇷), passionate about **
 
 - Web development with **React**, **TypeScript**, and **Next.js**
 - Machine Learning with **Python**, **TensorFlow**, and **OpenCV**
-- Backend with **Springboot (Java)**, **FastAPI** or **Node.js with Express** (not sure yet)
+- Backend with **Springboot (Java)** and **Node.js with Express**
 - Blockchain fundamentals with **Rust**
 
 ---
 
 ## 🛠️ Projects
 
-- 🗺️ **SkillMap** - Website for people to generate personalized roadmaps to learn faster and more efficiently.
+- 💪 **Atlas** - Carry your world. Your personal dashboard to keep life on track. (in progress)
 - 🎓 **Drop-In** – Platform for students to create spontaneous meetups on campus. [GitHub](https://github.com/FabianSanchezD/dropin)
 - 🧠 **Mindsnacks** – AI-generated mini podcast snippets based on topics you want to learn.
-- ✅ **To-Do CLI App** – Command-line task manager using Python and SQLite.
 
 ---
-
-## 🔭 Future Projects
-
-- 🤺 **Fencing Technique Analyzer** – Computer vision + AI to detect and give feedback on fencing technique..
-- ⛓️ **Blockchain App in Rust** – Still exploring the idea.
-
 
 ## ⚙️ Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
