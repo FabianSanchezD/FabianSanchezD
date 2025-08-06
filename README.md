@@ -15,9 +15,9 @@ I'm a Computer Science student at TEC (Costa Rica 🇨🇷), passionate about **
 
 ## 🛠️ Projects
 
-- 💪 **Atlas** - Carry your world. Your personal dashboard to keep life on track. (in progress)
 - 🎓 **Drop-In** – Platform for students to create spontaneous meetups on campus. [GitHub](https://github.com/FabianSanchezD/dropin)
 - 🧠 **Mindsnacks** – AI-generated mini podcast snippets based on topics you want to learn.
+- More soon...
 
 ---
 
