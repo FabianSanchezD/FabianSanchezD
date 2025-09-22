@@ -16,7 +16,8 @@ I'm a Computer Science student at TEC (Costa Rica 🇨🇷), passionate about **
 ## 🛠️ Projects
 
 - 🎓 **Drop-In** – Platform for students to create spontaneous meetups on campus. [GitHub](https://github.com/FabianSanchezD/dropin)
-- 🧠 **Mindsnacks** – AI-generated mini podcast snippets based on topics you want to learn.
+- 📕 **Althara Pacta** – Making government tenders transparent and decentralized using Filecoin storage and Solidity contracts.
+- 🧠 **Veridion** – Infrastructure to verify humanity in Stellar.
 - More soon...
 
 ---
